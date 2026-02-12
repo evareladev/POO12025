@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="Página-1" id="bqVwXV9Z_oXthqVOrW49">
+    <mxGraphModel dx="496" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8PzK-Rdx-VDqKPmJB0H6-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" value="Classroom" vertex="1">
+          <mxGeometry height="40" width="226" x="354" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8PzK-Rdx-VDqKPmJB0H6-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp;- name: String&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;-&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;location: String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;-&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;description: String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;-&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;capacity: int&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="226" x="354" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8PzK-Rdx-VDqKPmJB0H6-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp;+ Classroom()&lt;div&gt;&amp;nbsp;+ Classroom(String, String)&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ Classroom(String, String, String, int)&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setName(String) : void&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ getName(void) : String&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ ....&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ toString(void) : String&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="226" x="354" y="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
